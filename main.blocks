@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="I]_z@IWfP4JFkkZRXVLj" x="0" y="0"></block><block type="device_forever" id="(=QdEibfb(seeL/}Xy80" x="156" y="-4"></block><block type="device_build_image" id="Vm;nnW9.}.N@f5wgxh,d" disabled="true" x="30" y="131"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="text_length" id="IIUrf=aCB3h8]6$wml+:" disabled="true" x="58" y="350"><value name="VALUE"><shadow type="text" disabled="true"><field name="TEXT">Hello</field></shadow><block type="text" id="iLdcuPQrR~!BeA5Kya^*" disabled="true"><field name="TEXT">Amy Doyle </field></block></value></block><block type="text_join" id="?kO)}nrd[1aEE),[1}z@" disabled="true" x="66" y="400"><mutation items="2"></mutation><value name="ADD0"><shadow type="text" id=":ntihuS9N1};m(Q!FGrG" disabled="true"><field name="TEXT">Megan Tynan</field></shadow></value><value name="ADD1"><shadow type="text" id="?eCqibc)Ji4)*]Q-LZ#$" disabled="true"><field name="TEXT"></field></shadow></value></block><block type="string_parsefloat" id=":=JeQEWT@mu-Fi|KIqG(" disabled="true" x="65" y="438"><value name="text"><shadow type="text" id="sJvb[y{;@vNx%a{@6q0z" disabled="true"><field name="TEXT">Molly Short </field></shadow></value></block></xml>
